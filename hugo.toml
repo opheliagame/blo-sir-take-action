@@ -1,4 +1,5 @@
 baseURL = "/"
+relativeURLs = true
 languageCode = 'en-us'
 title = 'Take Action to Reduce Work Pressure on BLOs During SIR'
 
