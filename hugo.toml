@@ -2,10 +2,6 @@ baseURL = "/"
 languageCode = 'en-us'
 title = 'Take Action to Reduce Work Pressure on BLOs During SIR'
 
-[caches]
-  [caches.images]
-    dir = ':cacheDir/images'
-
 theme = ["mainroad"]
 
 [params.reveal_hugo]
