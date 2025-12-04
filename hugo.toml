@@ -1,6 +1,4 @@
-baseURL = "./"
-relativeURLs = true
-canonifyURLs = false
+baseURL = 'https://opheliagame.github.io/blo-sir-take-action/'
 languageCode = 'en-us'
 title = 'Take Action to Reduce Work Pressure on BLOs During SIR'
 
@@ -20,5 +18,3 @@ unsafe = true
 baseName = "index"
 mediaType = "text/html"
 isHTML = true
-
-
