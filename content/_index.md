@@ -13,7 +13,7 @@ The Supreme Court has also stepped in and asked states to reduce the pressure by
 This is **not** about politics.
 This is about **basic safety** and making sure people doing field work are treated fairly.
 
-[Take Action Now!](/take_action)
+[Take Action Now!]({{< ref "take_action.md" >}})
 
 ## **What’s going wrong?**
 
@@ -42,7 +42,7 @@ Your message can **save lives** by helping reduce unsafe pressure on workers.
 
 ## **Take Action (2 minutes)**
 
-[Take Action Now!](/take_action)
+[Take Action Now!]({{< ref "take_action.md" >}})
 
 - a list of **official SEC complaint links** for every state
 - a **ready-to-copy message**
@@ -83,7 +83,7 @@ These represent a mix of viewpoints — centrist, independent, national, and reg
 
 ## **A final note**
 
-[Legal Disclaimer](/legal_disclaimer)
+[Legal Disclaimer]({{< ref "legal_disclaimer.md" >}})
 
 This page shares only what is publicly reported.
 Each case is different, but the pattern is clear: **the current workload is unsafe**.
