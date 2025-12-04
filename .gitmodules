@@ -1,0 +1,9 @@
+[submodule "themes/neopost"]
+	path = themes/neopost
+	url = https://github.com/salatine/neopost.git
+[submodule "themes/reveal-hugo"]
+	path = themes/reveal-hugo
+	url = https://github.com/joshed-io/reveal-hugo.git
+[submodule "themes/mainroad"]
+	path = themes/mainroad
+	url = https://github.com/vimux/mainroad.git
