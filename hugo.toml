@@ -2,7 +2,7 @@ baseURL = "/"
 languageCode = 'en-us'
 title = 'Take Action to Reduce Work Pressure on BLOs During SIR'
 
-theme = ["mainroad"]
+theme = ["mainroad", "reveal-hugo"]
 
 [params.reveal_hugo]
 theme = "solarized"
